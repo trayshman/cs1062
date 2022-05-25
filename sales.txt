@@ -1,0 +1,39 @@
+sweater,4.15
+lip balm,21.71
+kleenex,29.79
+popsicle,2.00
+marker,35.42
+notebook,9.42
+jigsaw puzzle,2.86
+baseball cap,31.68
+bottled water,58.07
+cookies,34.09
+sweater,9.55
+marker,46.24
+slow cooker,31.82
+cookies,33.91
+popsicle,5.36
+bottled water,14.06
+marker,39.85
+cookies,6.00
+baseball cap,88.84
+lip balm,12.91
+kleenex,20.22
+notebook,33.25
+marker,9.18
+bottled water,8.41
+cookies,15.97
+slow cooker,0.38
+baseball cap,47.86
+notebook,15.66
+popsicle,4.59
+sweater,23.31
+lip balm,6.92
+marker,52.57
+cookies,34.45
+marker,30.07
+slow cooker,29.53
+lip balm,10.46
+bottled water,51.65
+cookies,65.82
+kleenex,12.84
